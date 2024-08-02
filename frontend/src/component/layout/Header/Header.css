@@ -1,0 +1,36 @@
+.navbar {
+    position: relative;
+  }
+  
+  .icons {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .icon {
+    margin-left: 25px;
+    color: rgba(35, 35, 35, 0.8);
+    font-size: 2em; /* Adjust the size as needed */
+  }
+  
+  .icon:hover {
+    color: #7b120b;
+  }
+
+  .speedDial {
+    position: fixed;
+    right: 3vmax;
+    top: 3vmax;
+  }
+  
+  .speedDialIcon {
+    width: 56px;
+    height: 56px;
+    border-radius: 100%;
+  }
+  
+  
