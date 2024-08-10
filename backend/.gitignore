@@ -1,14 +1,12 @@
 # dependencies
 /node_modules
 /frontend/node_modules
-/frontend/.pnp
-/frontend/.pnp.js
 
 # testing
 /frontend/coverage
 
 # production
-/frontend/build
+# /frontend/build      <-- Remove this comment to include the `build` folder in your repository
 
 # misc
 /backend/config/config.env
@@ -23,4 +21,4 @@ yarn-debug.log*
 yarn-error.log*
 
 # Visual Studio Code settings
-# .vscode/
+.vscode/

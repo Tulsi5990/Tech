@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aa87c7b8.css",
+    "main.js": "/static/js/main.a042ceca.js",
+    "static/media/TechTrove_logo_Black.png": "/static/media/TechTrove_logo_Black.6b2fb477de7634a131eb.png",
+    "static/media/Profile.png": "/static/media/Profile.697fdcd21f6d157b9073.png",
+    "static/media/playstore.png": "/static/media/playstore.82b4831979e0ce7c733e.png",
+    "static/media/Appstore.png": "/static/media/Appstore.d0c5839937e3c36285f6.png",
+    "static/media/redux.cjs": "/static/media/redux.7edfc461ab353f1712ab.cjs",
+    "index.html": "/index.html",
+    "main.aa87c7b8.css.map": "/static/css/main.aa87c7b8.css.map",
+    "main.a042ceca.js.map": "/static/js/main.a042ceca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa87c7b8.css",
+    "static/js/main.a042ceca.js"
+  ]
+}
