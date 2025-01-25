@@ -12,6 +12,7 @@
     "@mui/x-data-grid": "^5.11.0",
     "@mui/x-tree-view": "^7.11.0",
     "@redux-devtools/extension": "^3.3.0",
+    "@reduxjs/toolkit": "^2.5.0",
     "@stripe/react-stripe-js": "^2.7.3",
     "@stripe/stripe-js": "^4.1.0",
     "@testing-library/jest-dom": "^5.17.0",
